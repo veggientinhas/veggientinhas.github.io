@@ -46,7 +46,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 70,
+    "uniqCompNum": 79,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
@@ -59,7 +59,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/veggientinhas-1000x1080.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/veggientinhas-1-1000x1080.png"
       },
       "components": [
         {
